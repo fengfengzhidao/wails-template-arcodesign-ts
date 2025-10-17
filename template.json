@@ -1,7 +1,7 @@
 {
-  "name": "wails-template-tdesign-js",
-  "shortname": "tdesign-js",
-  "author": "tongque <tongque00@gamil.com>",
-  "description": "A template using tdesign + vite + js",
-  "helpurl": "https://github.com/tongque0/wails-template-tdesign-js"
+  "name": "wails-template-arcoDesign-ts",
+  "shortname": "arcoDesign-ts",
+  "author": "枫枫 <fengfengzhidao@126.com>",
+  "description": "A template using arcodesign + vite + ts",
+  "helpurl": "https://github.com/fengfengzhidao/wails-template-arcodesign-ts"
 }
